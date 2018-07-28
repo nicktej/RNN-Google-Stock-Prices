@@ -11,8 +11,5 @@ The RNN has 4 LSTM layers and some dropout regularization, and uses an Adam opti
 This project uses Python 3. You will need TensorFlow, Theano, Keras, Numpy, Matplotlib, and so on. I used Spyder on Anaconda to code this.
 
 
-## Acknowledgments
-
-A-Z AI for the Udemy course
 
 
